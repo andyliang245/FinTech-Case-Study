@@ -38,6 +38,7 @@
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
+![Chart](C:\Users\Andy L\Documents\UW BOOTCAMP\HW\FinTech-Case-Study\Capture.png)
 
 
 ## ***Recommendations***
@@ -57,4 +58,5 @@
 * https://www.globenewswire.com/news-release/2020/12/17/2147264/0/en/Global-Fintech-Market-Report-2020-2025-Competition-Forecast-Opportunities.html 
 * https://zabo.com/blog/plaid-vs-yodlee-vs-zabo/
 * https://medium.com/@gomedici/top-banking-apis-enabling-access-to-aggregated-rich-financial-data-6d30cbd02fdd
-
+* https://blog.usejournal.com/how-plaid-is-quietly-building-a-financial-data-empire-29f807f20898
+* https://www.mx.com/news/
