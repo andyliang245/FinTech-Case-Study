@@ -12,29 +12,25 @@
 
 ## ***Business Activities***
 
-### Historically, in order to make any financial transactions, the process of allowing third party vendors such as mortgage lenders to access consumers' banking information for payments has been an arduous process. By utilizing Plaid's infrastructure, it allows third party vendors to access consumers' banking information (with consumers' consent) and eliminating all the bottleneck proceeses. Plaid's core business is to take the most of the bank's main functionality, bundle in a set of APIs, and deliver that to consumers on-the-go. Once integrated with consumer authentication, Plaid can instantly match user-provided account, automate micro-deposits which are automatically verified on behalf of the users, and provide same day micro-deposits for users to verify within 1 business day, thus eliminating the process of going to the bank physically with tedious procedures to provide authentication (ID, birth certificate, etc.).
+### Historically, in order to make any financial transactions, the process of allowing third party vendors such as mortgage lenders to access consumers' banking information for payments has been an arduous process. By utilizing Plaid's infrastructure, it allows third party vendors to access consumers' banking information (with consumers' consent) and eliminating all the bottleneck proceeses. Plaid's core business is to take the most of the bank's main functionality, bundle in a set of APIs, and deliver that to consumers on-the-go. 
 
 ![How Plaid Works](https://miro.medium.com/max/1294/1*k_kn6Nx7kd-DCsTlDjBrRA.png)
 
 >"Plaid makes it easy to set up ACH transfers from any bank or credit union in the U.S. Once a user links their account via their banking credentials, Plaid retrieves their account and routing numbers. ACH payments can be set up in moments."
 
-### Plaid's target customers are FinTech developers looking to build financial services application that would impact direct consumers. This can range from payment solution players such as Venmo, investment management companies such as Robinhood, Lending institutions/mortgages, etc. In 2019, the Global FinTech Market was valued at approximately $5.504 billion, with the CAGR of roughly 24%. This presents a huge opportunity for Plaid as it continues to expand its customer base from start-up companies to potentially government entities.
+### Plaid's target customers are FinTech developers looking to build financial services application that would impact direct consumers. This can range from payment solution players such as Venmo, investment management companies such as Robinhood, Lending institutions/mortgages, etc. Once integrated with consumer authentication, Plaid can instantly match user-provided account, automate micro-deposits which are automatically verified on behalf of the users, and provide same day micro-deposits for users to verify within 1 business day, thus eliminating the process of going to the bank physically with tedious procedures to provide authentication (ID, birth certificate, etc.).
+
+### In 2019, the Global FinTech Market was valued at approximately $5.504 billion, with the CAGR of roughly 24%. This presents a huge opportunity for Plaid as it continues to expand its customer base from start-up companies to potentially government entities.
+
+![Customers](https://digital.hbs.edu/platform-digit/wp-content/uploads/sites/2/2020/02/Plaid-apps.png)
+
+## ***Landscape***
+
+### Plaid may seem to be under the umbrella of payment solutions. However, since the company offers its technology infrastructures to developers/enterprises, Plaid falls in the domain of enterprise solution. For start-ups or small developers, Plaid's products and services offer a blueprint to produce "the next big thing" in the financial services industry. As institutions dab their feets into the water of Financial Technologies industry, the trend is to use vendors like Plaid as a starting guide to build out their own technologies to connect with consumers' banking information through consent. It is cost-effective and allows these larger enterprises to focus on other ever-evolving financial solutions to maintain its status and compete with others in the same industry.
 
 ### As a financial data aggregator, Plaid faces a few competitions in the market. Yodlee was dubbed as "the OG financial data aggregator." Through its veteran leadership since 1999, Yodlee is one of the leading financial data aggregators that presents a huge threat to Plaid. While the competition is fierce, Plaid's main competitive advantage is its developer friendliness on its API infrastructure and offers guides and sample applications to allow the developers to easily navigate while building their own FinTech products.
 
 ![Competitions](https://miro.medium.com/max/900/0*YX-uRZFyBRRORle3.)
-
-## ***Landscape***
-
-* What domain of the financial industry is the company in?
-      enterprise solution
-
-
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-
-
-* What are the other major companies in this domain?
-
 
 ## Results
 
