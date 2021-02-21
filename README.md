@@ -12,7 +12,7 @@
 
 ##### Historically, in order to make any financial transactions, the process of allowing third party vendors such as mortgage lenders to access consumers' banking information for payments has been an arduous process. By utilizing Plaid's infrastructure, it allows third party vendors to access consumers' banking information (with consumers' consent) and eliminating all the bottleneck proceeses. Plaid's core business is to take the most of the bank's main functionality, bundle in a set of APIs, and deliver that to consumers on-the-go. 
 
-![Plaid Logo](https://cdn.openbankingexpo.com/wp-content/uploads/2019/07/Plaid-Logo_600.png)
+### ![Plaid Logo](https://cdn.openbankingexpo.com/wp-content/uploads/2019/07/Plaid-Logo_600.png)
 
 >"Plaid makes it easy to set up ACH transfers from any bank or credit union in the U.S. Once a user links their account via their banking credentials, Plaid retrieves their account and routing numbers. ACH payments can be set up in moments."
 
