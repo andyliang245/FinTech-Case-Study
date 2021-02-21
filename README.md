@@ -26,7 +26,9 @@
 
 ## ***Landscape***
 
-### Plaid may seem to be under the umbrella of payment solutions. However, since the company offers its technology infrastructures to developers/enterprises, Plaid falls in the domain of enterprise solution. For start-ups or small developers, Plaid's products and services offer a blueprint to produce "the next big thing" in the financial services industry. As institutions dab their feets into the water of Financial Technologies industry, the trend is to use vendors like Plaid as a starting guide to build out their own technologies to connect with consumers' banking information through consent. It is cost-effective and allows these larger enterprises to focus on other ever-evolving financial solutions to maintain its status and compete with others in the same industry.
+### Plaid may seem to be under the umbrella of payment solutions. However, since the company offers its technology infrastructures to developers and enterprises, Plaid falls in the domain of enterprise solution. For start-ups or small developers, Plaid's products and services offer a blueprint to produce "the next big thing" in the financial services industry. As institutions dab their feets into the water of Financial Technologies industry, the trend is to use vendors like Plaid as a starting guide to build out their own technologies to connect with consumers' banking information through consent. It is cost-effective and allows these larger enterprises to focus on other ever-evolving financial solutions to maintain its status and compete with others in the same industry.
+
+>"Plaid powers the apps in your financial life"
 
 ### As a financial data aggregator, Plaid faces a few competitions in the market. Yodlee was dubbed as "the OG financial data aggregator." Through its veteran leadership since 1999, Yodlee is one of the leading financial data aggregators that presents a huge threat to Plaid. While the competition is fierce, Plaid's main competitive advantage is its developer friendliness on its API infrastructure and offers guides and sample applications to allow the developers to easily navigate while building their own FinTech products.
 
