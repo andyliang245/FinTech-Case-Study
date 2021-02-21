@@ -12,19 +12,17 @@
 
 ## ***Business Activities***
 
-##### Historically, in order to make any financial transactions, the process of allowing third party vendors such as mortgage lenders to access consumers' banking information for payments has been an arduous process. By utilizing Plaid's infrastructure, it allows third party vendors to access consumers' banking information (with consumers' consent) and eliminating all the bottleneck proceeses. Plaid's core business is to take the most of the bank's main functionality, bundle in a set of APIs, and deliver that to consumers on-the-go. 
+##### Historically, in order to make any financial transactions, the process of allowing third party vendors such as mortgage lenders to access consumers' banking information for payments has been an arduous process. By utilizing Plaid's infrastructure, it allows third party vendors to access consumers' banking information (with consumers' consent) and eliminating all the bottleneck proceeses. Plaid's core business is to take the most of the bank's main functionality, bundle in a set of APIs, and deliver that to consumers on-the-go. Once integrated with consumer authentication, Plaid can instantly match user-provided account, automate micro-deposits which are automatically verified on behalf of the users, and provide same day micro-deposits for users to verify within 1 business day, thus eliminating the process of going to the bank physically with tedious procedures to provide authentication (ID, birth certificate, etc.).
 
 ![How Plaid Works](https://miro.medium.com/max/1294/1*k_kn6Nx7kd-DCsTlDjBrRA.png)
 
 >"Plaid makes it easy to set up ACH transfers from any bank or credit union in the U.S. Once a user links their account via their banking credentials, Plaid retrieves their account and routing numbers. ACH payments can be set up in moments."
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+##### Plaid's target customers are FinTech developers looking to build financial services application that would impact direct consumers. This can range from payment solution players such as Venmo, investment management companies such as Robinhood, Lending institutions/mortgages, etc. In 2019, the Global FinTech Market was valued at approximately $5.504 billion, with the CAGR of roughly 24%. This presents a huge opportunity for Plaid as it continues to expand its customer base from start-up companies to potentially government entities.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+##### As a financial data aggregator, Plaid faces a few competitions in the market. Yodlee was dubbed as "the OG financial data aggregator." Through its veteran leadership since 1999, Yodlee is one of the leading financial data aggregators that presents a huge threat to Plaid. While the competition is fierce, Plaid's main competitive advantage is its developer friendliness on its API infrastructure and offers guides and sample applications to allow the developers to easily navigate while building their own FinTech products.
 
-
-## Landscape:
+## ***Landscape***
 
 * What domain of the financial industry is the company in?
       enterprise solution
@@ -62,5 +60,7 @@ What solution does this company offer that their competitors do not or cannot of
 * https://techcrunch.com/2013/09/19/plaid-funding/
 * https://www.cnbc.com/2018/12/11/plaids-250-million-funding-round-propels-it-to-2point7-billion-valuation.html
 * https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.usejournal.com%2Fhow-plaid-is-quietly-building-a-financial-data-empire-29f807f20898&psig=AOvVaw3lfO9wQuCMEHfnpkXjoaT3&ust=1613988857994000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiyzZjf-u4CFQAAAAAdAAAAABAD
-
+* https://zabo.com/blog/plaid-vs-yodlee-vs-zabo/
+* https://www.globenewswire.com/news-release/2020/12/17/2147264/0/en/Global-Fintech-Market-Report-2020-2025-Competition-Forecast-Opportunities.html 
+* https://zabo.com/blog/plaid-vs-yodlee-vs-zabo/
 
