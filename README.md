@@ -22,7 +22,7 @@
 
 ##### As a financial data aggregator, Plaid faces a few competitions in the market. Yodlee was dubbed as "the OG financial data aggregator." Through its veteran leadership since 1999, Yodlee is one of the leading financial data aggregators that presents a huge threat to Plaid. While the competition is fierce, Plaid's main competitive advantage is its developer friendliness on its API infrastructure and offers guides and sample applications to allow the developers to easily navigate while building their own FinTech products.
 
-![Competitions](https://zabo.com/blog/content/images/2020/12/plaid-vs-yodlee-vs-zabo.png)
+![Competitions](https://miro.medium.com/max/900/0*YX-uRZFyBRRORle3.)
 
 ## ***Landscape***
 
