@@ -4,6 +4,8 @@
 
 ##### Plaid, a San Francisco based company, is a technology company that develops a network of data transfer designed to assist FinTech companies to connect their finance products (such mobile applications) with consumers' traditional banking accounts. In doing so, Plaid makes it simple and safer for developers to build innovative FinTech products, from small startup companies all the way to the largest financial institutions. The company was founded in 2013 by Zach Perret and William Hockey, whom at the time were collaborating in an attempt to build and provide financial management products to direct consumers. The pair then pivoted company's direction to financial infrastructure and shifted its focus to unified banking API. Thanks to its pivot to enterprise solutions, Plaid was able to raise its recognition and receive funding to continue its business operations.
 
+![Plaid Logo](https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/llejr6xy9dqii0s12erg)
+
 ##### In 2013, Plaid received its seeding round funding of $2.8 million led by Spark Capital with additional participants from Google Venture, New Enterprise Associates, Felicis Ventures, and  Homebrew Capital. After securing its seeding round fundings, Plaid had raised three more rounds of capital in aggregate of $306.5 million. New Enterprise Associates led the comapny's Series A funding, totalling to approximately $12.5 million in 2014. Goldman Sachs and others participated in Plaid's Series B funding in 2016 as the company raised roughly $44 million. The latest round of funding (Series C) tallied to $250 million led by Mary Meeker, putting the company's valuation at approximately $2.65 billion in 2018. 
 
 ## ***Business Activities***
@@ -12,7 +14,7 @@
 
 ##### Historically, in order to make any financial transactions, the process of allowing third party vendors such as mortgage lenders to access consumers' banking information for payments has been an arduous process. By utilizing Plaid's infrastructure, it allows third party vendors to access consumers' banking information (with consumers' consent) and eliminating all the bottleneck proceeses. Plaid's core business is to take the most of the bank's main functionality, bundle in a set of APIs, and deliver that to consumers on-the-go. 
 
-### ![Plaid Logo](https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/llejr6xy9dqii0s12erg)
+![How Plaid Works](https://miro.medium.com/max/1294/1*k_kn6Nx7kd-DCsTlDjBrRA.png)
 
 >"Plaid makes it easy to set up ACH transfers from any bank or credit union in the U.S. Once a user links their account via their banking credentials, Plaid retrieves their account and routing numbers. ACH payments can be set up in moments."
 
