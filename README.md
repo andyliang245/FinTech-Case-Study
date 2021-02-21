@@ -34,24 +34,17 @@
 
 ![Competitions](https://miro.medium.com/max/900/0*YX-uRZFyBRRORle3.)
 
-## Results
-
-* What has been the business impact of this company so far?
+## ***Results***
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-* How is your company performing relative to competitors in the same domain?
 
 
-## Recommendations
+## ***Recommendations***
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+### Since the company thrive on unified banking APIs to help developers create applications to assist consumers linking banking information, Plaid can utilize the similar methodology build an infrastrucure that allow developers to use its product to develop applications which can simplify consumers' need to retrieving sensitive financial information such as tax documentations. This will then expand Plaid's customer base to boutique accounting firms, bigger tax-return filing organizations such as H&R Block and Turbo Tax, and even government agencies such as Internal Revenues Service agency during tax seasons. As the company builds more infrastructures outside of unified banking APIs, it can then translate into additional market opportunity with unified tax information APIs. 
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+![tax](https://img.cpapracticeadvisor.com/files/base/cygnus/cpa/image/2019/08/Tax_business_tax_Tips_for_Schedule_C_Filers_1_.54986ceb23dc8.5d556d9a70660.png?auto=format&w=720)
 
 ## Resources
 
@@ -63,4 +56,5 @@
 * https://zabo.com/blog/plaid-vs-yodlee-vs-zabo/
 * https://www.globenewswire.com/news-release/2020/12/17/2147264/0/en/Global-Fintech-Market-Report-2020-2025-Competition-Forecast-Opportunities.html 
 * https://zabo.com/blog/plaid-vs-yodlee-vs-zabo/
+* https://medium.com/@gomedici/top-banking-apis-enabling-access-to-aggregated-rich-financial-data-6d30cbd02fdd
 
