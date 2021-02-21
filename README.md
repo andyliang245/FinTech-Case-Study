@@ -1,4 +1,4 @@
-# **Plaid and Its "Mission to Democratizing Financial Services Through Technology"**
+# **Plaid and Its Mission to "Democratizing Financial Services Through Technology"**
 
 ## ***Overview and Origin***
 
