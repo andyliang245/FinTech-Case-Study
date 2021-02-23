@@ -38,6 +38,8 @@
 
 ### One methodology companies often use to measure success valuation. Prior to Visa dropping its bid for Plaid, the credit card giant had the intention to purchase Plaid at $5.3 billion. Yodlee, at the time Envestnet purchased the company, was valued at $590 million. While Envestnet is currently valued at $4.32 billion, it is not a fair metric to use the entirety of the parent company's value as its own. For that reason, Yodlee will be valued at the time of purchase (2015) compounded at 20% rate as the CAGR for FinTech was marked at 24%, total to roughly $1.4 billion. On January 13th, 2021, MX raised Series C funding of $300 million, increases its valuation to $1.9 billion. Lastly, on April 2020, Stripe had raised $600 million at $36 billion valuation, placing it head and shoulder above all competition, including Plaid. See chart below for reference.
 
+![Results](capture.png)
+
 ## ***Recommendations***
 
 ### Since the company thrive on unified banking APIs to help developers create applications to assist consumers linking banking information, Plaid can utilize the similar methodology build an infrastrucure that allow developers to use its product to develop applications which can simplify consumers' need to retrieving sensitive financial information such as tax documentations. This will then expand Plaid's customer base to boutique accounting firms, bigger tax-return filing organizations such as H&R Block and Turbo Tax, and even government agencies such as Internal Revenues Service agency during tax seasons. As the company builds more infrastructures outside of unified banking APIs, it can then translate into additional market opportunity with unified tax information APIs. 
